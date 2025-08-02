@@ -1,4 +1,4 @@
-package Introducao_01;
+package EstruturaSequencial_02;
 
 import java.util.Locale;
 
